@@ -3,6 +3,9 @@
 ## Descrição
 Esse projeto foi realizado para o consumo de API El Geladon, do curso da Blue EdTech módulo III. 
 
+## Link do projeto
+<a href="https://thabatagcampos.github.io/ElGeladon/" target="_blank"><img style="width:6%" src="./assets/images/morango-com-leite-condensado.png" alt="ElGeladonIcon"></a>
+
 ## Stacks
 Ferramentas usadas:
 <div style="display:flex">
